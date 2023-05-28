@@ -1,0 +1,21 @@
+
+.slide-colors{
+    background-color: #FDE6E0;
+}
+.slide-image{
+    height: 450px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #C7235C;
+}
+.Order-now-button{
+    background: #E5236D;
+    border: 1px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    height: 35px;
+}
