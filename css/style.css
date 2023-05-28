@@ -1,4 +1,6 @@
-
+.container{
+    margin-bottom: 20px;
+}
 .slide-colors{
     background-color: #FDE6E0;
 }
@@ -18,4 +20,23 @@
     cursor: pointer;
     color: white;
     height: 35px;
+}
+.cat img{
+    height: 100px;
+    
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    color: black;
+    border-radius: 10px;
+}
+.cat1{
+    background: purple;
+    
+}
+.cat2{
+    background: blue;
+}
+.cat3{
+    background: slateblue;
 }
