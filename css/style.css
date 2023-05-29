@@ -40,3 +40,23 @@
 .cat3{
     background: slateblue;
 }
+.card img{
+    height: 350px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    border: none;
+    background: white;
+}
+#suscribe{
+    background-color: #FDE6E0;
+}
+.hexca{
+    padding:50px 0px;
+}
+footer{
+    text-align: center;
+}
